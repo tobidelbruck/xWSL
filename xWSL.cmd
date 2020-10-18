@@ -1,5 +1,5 @@
 @ECHO OFF
-SET GITORG=DesktopECHO
+SET GITORG=tobidelbruck
 SET GITPRJ=xWSL
 SET BRANCH=master
 SET BASE=https://github.com/%GITORG%/%GITPRJ%/raw/%BRANCH%
